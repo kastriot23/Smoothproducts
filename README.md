@@ -22,7 +22,7 @@ A lightweight & simple jQuery product viewer script
 ```html
 <link rel="stylesheet" href="css/smoothproducts.css">
 ```
-- Add & call javascript in your footer:
+- Add & call JavaScript in your footer:
 
 ```html
 <script type="text/javascript" src="js/smoothproducts.min.js"></script>
